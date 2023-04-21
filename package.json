@@ -24,7 +24,7 @@
     "@colyseus/monitor": "^0.12.2",
     "@colyseus/schema": "^0.5.40",
     "bootstrap": "^4.5.0",
-    "colyseus": "^0.13.0",
+    "colyseus": "^0.14.24",
     "colyseus.js": "^0.13.1",
     "cors": "^2.8.5",
     "express": "^4.16.4",
